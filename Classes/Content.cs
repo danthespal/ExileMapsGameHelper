@@ -1,12 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
-using System.Text.Json.Serialization;
 using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
 
 namespace ExileMaps.Classes
 {
-    public class Biome : INotifyPropertyChanged
+    public class Content : INotifyPropertyChanged
     {
         private string name;
         private float weight = 1.0f;
@@ -18,6 +21,11 @@ namespace ExileMaps.Classes
         protected virtual void OnPropertyChanged(string propertyName)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        public override string ToString()
+        {
+            return Name;
         }
 
         public string Name
