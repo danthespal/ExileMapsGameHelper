@@ -1,0 +1,44 @@
+{
+    "Desert": {
+        "Color": "200, 219, 203, 172",
+        "Name": "Desert",
+        "Weight": 0.0
+    },
+    "EzomyteCity": {
+        "Name": "Ezomyte City",
+        "Weight": 0.0
+    },
+    "FaridunCity": {
+        "Name": "Faridun City",
+        "Weight": 0.0
+    },
+    "Forest": {
+        "Color": "200, 138, 151, 126",
+        "Name": "Forest",
+        "Weight": 0.0
+    },
+    "Grass": {
+        "Color": "200, 138, 151, 126",
+        "Name": "Grass",
+        "Weight": 0.0
+    },
+    "Mountain": {
+        "Color": "200, 146, 131, 121",
+        "Name": "Mountain",
+        "Weight": 0.0
+    },
+    "Swamp": {
+        "Color": "200, 138, 151, 126",
+        "Name": "Swamp",
+        "Weight": 0.0
+    },
+    "VaalCity": {
+        "Name": "Vaal City",
+        "Weight": 0.0
+    },
+    "Water": {
+        "Color": "200, 35, 59, 70",
+        "Name": "Water",
+        "Weight": 0.0
+    }
+}

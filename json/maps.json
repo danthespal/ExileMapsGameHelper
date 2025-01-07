@@ -1,0 +1,757 @@
+{
+    "Abyss": {
+        "Biomes": [
+            "Desert",
+            "Mountain",
+            ""
+        ],
+        "ID": "Abyss",
+        "Name": "Abyss",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "AlpineRidge": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "AlpineRidge",
+        "Name": "Alpine Ridge"
+    },
+    "Augury": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Augury",
+        "Name": "Augury",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+
+    },
+    "Backwash": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Backwash",
+        "Name": "Backwash",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "Bastille": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Desert"
+        ],
+        "ID": "Bastille",
+        "Name": "Bastille"
+    },
+    "Bloodbowl": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Bloodbowl",
+        "Name": "Bloodbowl",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Bloodwood": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Bloodwood",
+        "Name": "Bloodwood",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "BloomingField": {
+        "Biomes": [
+            "Forest",
+            "Grass",
+            ""
+        ],
+        "ID": "BloomingField",
+        "Name": "Blooming Field",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "BurialBog": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "BurialBog",
+        "Name": "Burial Bog",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "CanalHideout": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "CanalHideout",
+        "Name": "Canal Hideout"
+    },
+    "Castaway": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "Castaway",
+        "Name": "Castaway"
+    },
+    "Cenotes": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Cenotes",
+        "Name": "Cenotes",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Channel": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Channel",
+        "Name": "Channel",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "Creek": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Creek",
+        "Name": "Creek",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "CrimsonShores": {
+        "Biomes": [
+            "Water",
+            "",
+            ""
+        ],
+        "ID": "CrimsonShores",
+        "Name": "Crimson Shores",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Crypt": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Desert"
+        ],
+        "ID": "Crypt",
+        "Name": "Crypt",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Decay": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Decay",
+        "Name": "Decay",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "DerelictMansion": {
+        "Biomes": [
+            "Grass",
+            "Forest",
+            "Desert"
+        ],
+        "ID": "DerelictMansion",
+        "Name": "Derelict Mansion"
+    },
+    "Deserted": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Deserted",
+        "Name": "Deserted",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "FelledHideout": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "FelledHideout",
+        "Name": "Felled Hideout"
+    },
+    "Forge": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Forge",
+        "Name": "Forge",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Fortress": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Fortress",
+        "Name": "Fortress",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "GothicCity": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "GothicCity",
+        "Name": "Gothic City",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Headland": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Headland",
+        "Name": "Headland",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "HiddenGrotto": {
+        "Biomes": [
+            "Forest",
+            "Swamp",
+            "Swamp"
+        ],
+        "ID": "HiddenGrotto",
+        "Name": "Hidden Grotto",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Hive": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Hive",
+        "Name": "Hive",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Inferno": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Inferno",
+        "Name": "Inferno"
+    },
+    "LimestoneHideout": {
+        "Biomes": [
+            "Water",
+            "",
+            ""
+        ],
+        "ID": "LimestoneHideout",
+        "Name": "Limestone Hideout"
+    },
+    "LoftySummit": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "LoftySummit",
+        "Name": "Lofty Summit",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "LostTowers": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "LostTowers",
+        "Name": "Lost Towers"
+    },
+    "MerchantsCampsite": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "MerchantsCampsite",
+        "Name": "Merchant's Campsite",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "Mineshaft": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Mineshaft",
+        "Name": "Mineshaft"
+    },
+    "Mire": {
+        "Biomes": [
+            "Swamp",
+            "Forest",
+            ""
+        ],
+        "ID": "Mire",
+        "Name": "Mire",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "MomentofZen": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "MomentofZen",
+        "Name": "Moment of Zen",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "Necropolis": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Necropolis",
+        "Name": "Necropolis",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "Oasis": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Oasis",
+        "Name": "Oasis",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Outlands": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Outlands",
+        "Name": "Outlands"
+    },
+    "Penitentiary": {
+        "Biomes": [
+            "Grass",
+            "",
+            ""
+        ],
+        "ID": "Penitentiary",
+        "Name": "Penitentiary",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Ravine": {
+        "Biomes": [
+            "Mountain",
+            "",
+            ""
+        ],
+        "ID": "Ravine",
+        "Name": "Ravine",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Riverside": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Riverside",
+        "Name": "Riverside",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Rockpools": {
+        "Biomes": [
+            "Swamp",
+            "Swamp",
+            ""
+        ],
+        "ID": "Rockpools",
+        "Name": "Rockpools"
+    },
+    "Rustbowl": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "Rustbowl",
+        "Name": "Rustbowl"
+    },
+    "Sandspit": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "Sandspit",
+        "Name": "Sandspit",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Savannah": {
+        "Biomes": [
+            "Grass",
+            "Desert",
+            ""
+        ],
+        "ID": "Savannah",
+        "Name": "Savannah",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "Seepage": {
+        "Biomes": [
+            "Forest",
+            "Forest",
+            "Swamp"
+        ],
+        "ID": "Seepage",
+        "Name": "Seepage",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "ShrineHideout": {
+        "Biomes": [
+            "Desert",
+            "",
+            ""
+        ],
+        "ID": "ShrineHideout",
+        "Name": "Shrine Hideout"
+    },
+    "Slick": {
+        "Biomes": [
+            "Mountain",
+            "Desert",
+            ""
+        ],
+        "ID": "Slick",
+        "Name": "Slick",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "SpiderWoods": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "SpiderWoods",
+        "Name": "Spider Woods",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "SteamingSprings": {
+        "Biomes": [
+            "Mountain",
+            "Grass",
+            "Forest"
+        ],
+        "ID": "SteamingSprings",
+        "Name": "Steaming Springs",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "Steppe": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Steppe",
+        "Name": "Steppe",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "SulphuricCaverns": {
+        "Biomes": [
+            "Mountain",
+            "Swamp",
+            "Desert"
+        ],
+        "ID": "SulphuricCaverns",
+        "Name": "Sulphuric Caverns",
+        "NameColor": "200, 255, 165, 0",
+        "NodeColor": "200, 255, 165, 0",
+        "Weight": 10.0
+    },
+    "Sump": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Sump",
+        "Name": "Sump"
+    },
+    "SunTemple": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "SunTemple",
+        "Name": "Sun Temple",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "SwampTower": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "SwampTower",
+        "Name": "Swamp Tower"
+    },
+    "TheCopperCitadel": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheCopperCitadel",
+        "Name": "The Copper Citadel",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "TheIronCitadel": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheIronCitadel",
+        "Name": "The Iron Citadel",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "TheStoneCitadel": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "TheStoneCitadel",
+        "Name": "The Stone Citadel",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "TheZigguratRefuge": {
+        "Biomes": [],
+        "ID": "TheZigguratRefuge",
+        "Name": "The Ziggurat Refuge"
+    },
+    "UntaintedParadise": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "UntaintedParadise",
+        "Name": "Untainted Paradise",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "VaalCity": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "VaalCity",
+        "Name": "Vaal City"
+    },
+    "VaalFactory": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaalFactory",
+        "Name": "Vaal Factory",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "VaalFoundry": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaalFoundry",
+        "Name": "Vaal Foundry",
+        "NameColor": "200, 178, 34, 34",
+        "NodeColor": "200, 178, 34, 34",
+        "Weight": -10.0
+    },
+    "VaalVillage": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "VaalVillage",
+        "Name": "Vaal Village"
+    },
+    "VaultsofKamasa": {
+        "Biomes": [
+            "",
+            "",
+            ""
+        ],
+        "ID": "VaultsofKamasa",
+        "Name": "Vaults of Kamasa",
+        "DrawLine": true,
+        "Highlight": true,
+        "NodeColor": "180, 0, 215, 34",
+        "NameColor": "255, 0, 215, 34",
+        "Weight": 100
+    },
+    "Wetlands": {
+        "Biomes": [
+            "Swamp",
+            "",
+            ""
+        ],
+        "ID": "Wetlands",
+        "Name": "Wetlands",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "Willow": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Willow",
+        "Name": "Willow",
+        "NameColor": "200, 50, 205, 50",
+        "NodeColor": "200, 50, 205, 50",
+        "Weight": 25.0
+    },
+    "Woodland": {
+        "Biomes": [
+            "Forest",
+            "",
+            ""
+        ],
+        "ID": "Woodland",
+        "Name": "Woodland"
+    }
+}

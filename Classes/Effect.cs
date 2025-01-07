@@ -17,7 +17,7 @@ namespace ExileMaps.Classes
         private int value2;
         private long id;
         private float weight;
-        private List<StdTuple2D<int>> sources = new List<StdTuple2D<int>>();
+        private List<Vector2i> sources = new List<Vector2i>();
 
         public event PropertyChangedEventHandler PropertyChanged;
 
@@ -124,7 +124,7 @@ namespace ExileMaps.Classes
             }
         }
 
-        public List<StdTuple2D<int>> Sources
+        public List<Vector2i> Sources
         {
             get => sources;
             set

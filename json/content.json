@@ -1,0 +1,37 @@
+{
+    "Breach": {
+        "Color": "200, 166, 90, 255",
+        "Name": "Breach",
+        "Weight": 5.0
+    },
+    "Corruption": {
+        "Name": "Corruption",
+        "Color": "200, 220, 20, 60",
+        "Weight": 2.0
+    },
+    "Delirium": {
+        "Color": "200, 220, 220, 220",
+        "Name": "Delirium",
+        "Weight": 4.0
+    },
+    "Expedition": {
+        "Color": "200, 166, 177,255",
+        "Name": "Expedition",
+        "Weight": 4.0
+    },
+    "Irradiated": {
+        "Name": "Irradiated",
+        "Weight": 2.0,
+        "Color": "200, 154,205,50"
+    },
+    "Map Boss": {
+        "Name": "Map Boss",
+        "Weight": 3.0,
+        "Color": "200, 184, 134, 11"
+    },
+    "Ritual": {
+        "Color": "200, 178, 34, 34",
+        "Name": "Ritual",
+        "Weight": 4.0
+    }
+}
